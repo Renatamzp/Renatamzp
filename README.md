@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatazambrano)
 
-- Apasionada por la tecnologia, el aprendizaje continuo y la calidad de software. Feliz de compartir contigo mis proyectos y conocimientos.
+- Apasionada por la tecnologia, el aprendizaje continuo y la calidad de software. Mi trayectoria profesional comenzo como Nutricionista, sin embargo, actualmente estoy ampliando mis concimentos en diversas tecnologias dentro del desarrollo de software siempre en constante crecimiento estoy muy feliz de compartir contigo mis proyectos y aprendizaje.
 
 
 ### Skills
