@@ -1,4 +1,4 @@
-#  <img src="https://media.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif" width="100"/>  <center>*Hola 👋 ¡Que gusto tenerte aqui!* </center>
+#  <img src="https://media.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif" width="100"/>  <p align="center" width="100%"> *Hola 👋 ¡Que gusto tenerte aqui!* </p>
 
 &nbsp; 
 
