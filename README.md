@@ -4,7 +4,7 @@
 
 &nbsp;
 
-![Banner de Renatazam](Banner1.png)
+![Banner de Renatazam](Banner1.1.png)
 
 
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatazambrano)
