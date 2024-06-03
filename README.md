@@ -13,7 +13,7 @@
 
  
 
-- *Apasionada por la tecnologia, el aprendizaje continuo y la calidad de software. Mi trayectoria profesional comenzo como Nutricionista, sin embargo, actualmente estoy ampliando mis concimentos en diversas tecnologias dentro del desarrollo de software, principalmente aseguramiento de la calidad, siempre en constante crecimiento estoy muy feliz de compartir contigo mis proyectos y aprendizaje.*
+- *Apasionada por la tecnologia, el aprendizaje continuo y la calidad de software. Mi trayectoria profesional comenzo como Nutricionista, sin embargo,  actualmente estoy explorando el mundo del desarrollo de software, centrándome especialmente en el aseguramiento de la calidad y aprendiendo sobre automatización. Estoy emocionada de compartir mis proyectos, avances y aprendizajes contigo. ¡Bienvenido a mi repositorio! 😊👩‍💻*
 
 
 ### Skills
