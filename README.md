@@ -13,7 +13,7 @@
 
  
 
-- *Apasionada por la tecnologia, el aprendizaje continuo y la calidad de software. Mi trayectoria profesional comenzo como Nutricionista, sin embargo,  actualmente estoy explorando el mundo del desarrollo de software, centrándome especialmente en el aseguramiento de la calidad y aprendiendo sobre automatización. Estoy emocionada de compartir mis proyectos, avances y aprendizajes contigo. ¡Bienvenido a mi repositorio! 😊👩‍💻*
+- *Analista QA con experiencia en pruebas manuales. Actualmente, estoy expandiendo mis habilidades en automatización de pruebas, con el objetivo de mejorar la eficiencia y la calidad de los procesos de desarrollo. Apasionada por la tecnología y el aprendizaje continuo, mi meta es avanzar hacia roles de QA Automation. En este repositorio, comparto mis proyectos, avances y aprendizajes. ¡Gracias por tu interés y bienvenido! 😊👩‍💻*
 
 
 ### Skills
