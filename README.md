@@ -13,7 +13,7 @@
 
  
 
-- *Analista QA con experiencia en pruebas manuales. Actualmente, estoy expandiendo mis habilidades en automatización de pruebas, con el objetivo de mejorar la eficiencia y la calidad de los procesos de desarrollo. Apasionada por la tecnología y el aprendizaje continuo, mi meta es avanzar hacia roles de QA Automation. En este repositorio, comparto mis proyectos, avances y aprendizajes. ¡Gracias por tu interés y bienvenido! 😊👩‍💻*
+- *Analista QA con experiencia en pruebas manuales. Actualmente, estoy expandiendo mis habilidades en automatización, con el objetivo de potenciar el proceso de pruebas y contribuir al éxito de los proyectos. Apasionada por la tecnología y el aprendizaje continuo, mi meta es avanzar hacia roles de QA Automation. En este repositorio, comparto mis proyectos, avances y aprendizajes. ¡Gracias por tu interés y bienvenido! 😊👩‍💻*
 
 
 ### Skills
