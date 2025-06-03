@@ -52,8 +52,6 @@
   <!-- Herramientas QA -->
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/xray-0052CC?style=for-the-badge&logoColor=white&label=Xray"/>
-  <img src="https://img.shields.io/badge/zephyr-0052CC?style=for-the-badge&logoColor=white&label=Zephyr"/>
   <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/jmeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
   <img src="https://img.shields.io/badge/cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
@@ -65,8 +63,6 @@
   <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 
-  <!-- Metodologías -->
-  <img src="https://img.shields.io/badge/BDD-%232C3E50.svg?style=for-the-badge&logoColor=white&label=BDD"/>
 
 </p>
 
