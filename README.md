@@ -22,7 +22,7 @@
 
 **Analista QA con experiencia en:**  
 ✔️ 1+ año en testing funcional  
-✔️ Diseño de casos de prueba basados en requerimientos 
+✔️ Diseño de casos de prueba basados en requerimientos  
 ✔️ Ejecución y seguimiento de pruebas funcionales, de regresión y exploratoria  
 ✔️ Gestión de defectos (Jira, Xray, Zephyr, etc)  
 ✔️ Trabajo colaborativo  
