@@ -12,8 +12,18 @@
  &nbsp;
 
  
+### 👩‍💻 Sobre Mí  
 
-- *Analista QA con experiencia en pruebas manuales. Actualmente, estoy expandiendo mis habilidades en automatización, con el objetivo de potenciar el proceso de pruebas y contribuir al éxito de los proyectos. Apasionada por la tecnología y el aprendizaje continuo, mi meta es avanzar hacia roles de QA Automation. En este repositorio, comparto mis proyectos, avances y aprendizajes. ¡Gracias por tu interés y bienvenido! 😊👩‍💻*
+*Analista QA con experiencia en:*  
+✔️ 1+ año en testing funcional y diseño de casos de prueba 
+✔️ Diseño de casos de prueba basados en requerimientos  
+✔️ Gestión de defectos (Jira, Xray, Zephyr, etc)  
+
+ 
+*🚀 Actualmente amplío mis conocimientos hacia el mundo de la automatización de pruebas, explorando herramientas como Selenium WebDriver, JMeter y Cucumber. Mi objetivo es complementar mis habilidades con técnicas más eficientes, siempre manteniendo esa mirada crítica que caracteriza a un buen QA.*
+
+
+*"Apasionada por la calidad del software como puente entre tecnología y negocio. Actualmente enfocada en escalar mis habilidades técnicas para implementar estrategias de testing más eficientes."* 
 
 
 ### Skills
