@@ -23,9 +23,9 @@
 **Analista QA con experiencia en:**  
 ✔️ 1+ año en testing funcional  
 ✔️ Diseño de casos de prueba basados en requerimientos 
-✔️ Ejecución y seguimiento de pruebas funcionales, de regresión y exploratoria
+✔️ Ejecución y seguimiento de pruebas funcionales, de regresión y exploratoria  
 ✔️ Gestión de defectos (Jira, Xray, Zephyr, etc)  
-✔️ Trabajo colaborativo
+✔️ Trabajo colaborativo  
 
 
 🚀 Actualmente amplío mis conocimientos hacia la automatización de pruebas, explorando herramientas como Selenium WebDriver, JMeter y Cucumber, con el objetivo de complementar mis habilidades con técnicas más eficientes, siempre manteniendo esa mirada crítica que caracteriza a un buen QA.
