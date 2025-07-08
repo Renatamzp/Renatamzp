@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="Banner1.1.png" alt="Banner de Renatazam" />
+  <img src="portda.png" alt="Banner de Renatazam" />
 </p>
 
 <p align="center">
